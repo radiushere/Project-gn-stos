@@ -213,3 +213,9 @@ The system demonstrates that modern IR techniques NER, knowledge graphs, and gra
 5. Stasko, J., Görg, C., & Liu, Z. (2008). Jigsaw: Supporting investigative analysis through interactive visualization. IEEE Transactions on Visualization and Computer Graphics, 14(6), 1576-1583.
 6. FBI Most Wanted API. Federal Bureau of Investigation. https://api.fbi.gov/wanted/v1/list
 7. The Charley Project. Missing Persons Archive. https://charleyproject.org
+
+**Contributors**
+
+| <a href="https://github.com/Najaf-Ali-Imran"><img src="https://github.com/Najaf-Ali-Imran.png" width="50" height="50" alt="Najaf-Ali-Imran"/></a> | <a href="https://github.com/Musamehar"><img src="https://github.com/Musamehar.png" width="50" height="50" alt="Musamehar"/></a> |
+| :---: | :---: |
+| [@Najaf-Ali-Imran](https://github.com/Najaf-Ali-Imran) | [@Musamehar](https://github.com/Musamehar) |
